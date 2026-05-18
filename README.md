@@ -204,7 +204,7 @@ titanic-decision-tree/
 
 ---
 
-## 📚 Referências
+## Referências
 
 - [Scikit-learn — DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 - [Kaggle — Titanic Dataset](https://www.kaggle.com/competitions/titanic)
